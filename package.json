@@ -1,0 +1,14 @@
+{
+  "name": "cs_j0hnstone",
+  "version": "1.0.0",
+  "description": "Tool to extract data from csgo demos, which represents the first confrontation of a round/death. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike / Corsin",
+  "license": "ISC",
+  "dependencies": {
+    "demofile": "^2.2.0"
+  }
+}
